@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Fahd Arhalai. I am currently a software engineering student at National School of Applied Science (Kenitra, Morocco).
+- 🔭 I am currently working on new cool projects related to Data Engineering and Data Analysis.
+- 🌱 I’m currently learning new skills in Data Engineering but I'm also sharpening my skills in JEE & Spring ecosystem.
+- 📫 How to reach me: [Twitter](https://twitter.com/fahd_arhalai) & [Linkedin](https://www.linkedin.com/in/fahdarhalai/).
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahdarhalai&show_icons=true&theme=radical" />
+  </a>
+</p>
