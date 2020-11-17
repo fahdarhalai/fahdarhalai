@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Fahd Arhalai. I am currently a software engineering student at National School of Applied Science (Kenitra, Morocco).
 - 🔭 I am currently working on new cool projects related to Data Engineering and Data Analysis.
-- 🌱 I’m currently learning new skills in Data Engineering but I'm also sharpening my skills in JEE & Spring ecosystem.
+- 🌱 I’m also learning new skills in Data Engineering as well as sharpening my skills in JEE/Spring and software quality.
 - 📫 How to reach me: [Twitter](https://twitter.com/fahd_arhalai) & [Linkedin](https://www.linkedin.com/in/fahdarhalai/).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fahdarhalai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
