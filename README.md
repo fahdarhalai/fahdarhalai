@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineering student at the National School of Applied Sciences (Kenitra, Morocco).
+Full Stack Software Developer.
 - 🌱 I’m learning about JEE/Spring/ReactJS and Software Quality as well as Data Engineering.
 - 📫 How to reach me: [Twitter](https://twitter.com/fahd_arhalai) & [Linkedin](https://www.linkedin.com/in/fahdarhalai/).
 
