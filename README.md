@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full Stack Software Developer.
-- 🌱 I’m learning about JEE/Spring/ReactJS and Software Quality as well as Data Engineering.
+Full Stack Software Developer & Big Data enthusiast.
+- ⚡ Main prog lang: Java / Javascript / Python 
+- 🔭 Backend: JEE / Spring / Node.js / Laravel / Flask
+- ✨ Frontend: React / Material UI / Bootstrap
 - 📫 How to reach me: [Twitter](https://twitter.com/fahd_arhalai) & [Linkedin](https://www.linkedin.com/in/fahdarhalai/).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fahdarhalai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
