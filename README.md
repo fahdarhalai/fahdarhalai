@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Full Stack Software Developer & Big Data enthusiast.
-- ⚡ Main prog lang: Java / Javascript / Python 
+- ⚡ Languages: Java / Javascript / Python 
 - 🔭 Backend: JEE / Spring / Node.js / Laravel / Flask
-- ✨ Frontend: React / Material UI / Bootstrap
+- ✨ Frontend: React / Redux / Material UI / Bootstrap
+- 💬 Other: Kafka / Spark / Hadoop / Docker / Jenkins
 - 📫 How to reach me: [Twitter](https://twitter.com/fahd_arhalai) & [Linkedin](https://www.linkedin.com/in/fahdarhalai/).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fahdarhalai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
